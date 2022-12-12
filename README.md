@@ -4,7 +4,7 @@
 
 ** Connect With Me **
 <a href="https://www.linkedin.com/in/gabrielle-gui/" target="_blank">
-	[![LinkedIn](icons/linkedin.png)]
+	<img alt="Gabbie's Linkedin" src=icons/linkedin.png />
 </a>
 
 <!--
