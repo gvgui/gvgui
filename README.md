@@ -2,8 +2,10 @@
 
 🎓 I'm currently pursuing a B.S. Software Engineering from Arizona State University
 
-Connect With Me
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabrielle-gui/)
+** Connect With Me **
+<a href="https://www.linkedin.com/in/gabrielle-gui/" target="_blank">
+	[![LinkedIn](icons/linkedin.png)]
+</a>
 
 <!--
 **gvgui/gvgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
