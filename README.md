@@ -2,8 +2,8 @@
 
 🎓 I'm currently pursuing a B.S. Software Engineering from Arizona State University
 
-** Connect With Me **
-<a href="https://www.linkedin.com/in/gabrielle-gui/" target="_blank">
+**Connect With Me:**
+<a href="https://www.linkedin.com/in/gabrielle-gui/" target="_blank" rel="noopener noreferrer">
 	<img alt="Gabbie's Linkedin" src=icons/linkedin.png />
 </a>
 
