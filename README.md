@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Gabbie!
+
+🎓 I'm currently pursuing a B.S. Software Engineering from Arizona State University
+
+Connect With Me
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabrielle-gui/)
 
 <!--
 **gvgui/gvgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
