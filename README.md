@@ -2,9 +2,11 @@
 
 🎓 I'm currently pursuing a B.S. Software Engineering from Arizona State University
 
-**Connect With Me:**
+#### Connect with me:
+
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabrielle-gui/)
 
+![](https://visitor-badge.glitch.me/badge?page_id=gvgui.gvgui)
 <!--
 **gvgui/gvgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
