@@ -5,6 +5,7 @@
 #### Connect with me:
 
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabrielle-gui/)
+[![GitHub](icons/github.png)](https://github.com/gvgui)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gvgui.gvgui)
 <!--
