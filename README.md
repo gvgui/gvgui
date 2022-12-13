@@ -7,11 +7,11 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gabrielle-gui/)
 [![GitHub](icons/github.png)](https://github.com/gvgui)
 
-![](https://visitor-badge.glitch.me/badge?page_id=gvgui.gvgui)
+![](https://komarev.com/ghpvc/?username=gvgui&color=720026&style=for-the-badge)
 
 #### My Github Stats
 <p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=gvgui&show_icons=true&theme=gotham" alt="gvgui" />
+	<img src="https://github-readme-stats.vercel.app/api?username=gvgui&show_icons=true&theme=moltack" alt="gvgui" />
 <!--
 **gvgui/gvgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
